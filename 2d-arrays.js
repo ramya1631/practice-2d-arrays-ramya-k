@@ -6,7 +6,7 @@ let allScores = [
     [55,56,57]
 ];
 
-console.log(allScores);
+console.log("Student Scores:", allScores);
 
 //Task 2 - Build a Seating Grid
 let theaterSeating = [
@@ -15,7 +15,8 @@ let theaterSeating = [
     ["A1","A2","A3","A4"]
 ];
 
-console.log(theaterSeating);
+console.log("Theater Seating:", theaterSeating);
+
 
 //Task 3 - Form a Multi-Dimensional Contact List
 
@@ -24,4 +25,4 @@ let contactsList = [
     ["Rob","rob@gmail.com","1800-949-2441"]
 ];
 
-console.log(contactsList);
+console.log("Contacts List:", contactsList);
